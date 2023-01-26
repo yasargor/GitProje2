@@ -7,5 +7,9 @@ public class Ogrenci {
 
         System.out.println("2. task bitti");
 
+        System.out.println("3. task eklendi");
+
+
+
     }
 }
