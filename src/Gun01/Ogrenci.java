@@ -5,7 +5,7 @@ public class Ogrenci {
 
         System.out.println("Merhaba 1");
 
-
+        System.out.println("2. task bitti");
 
     }
 }
